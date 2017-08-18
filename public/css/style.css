@@ -1,0 +1,86 @@
+body {
+    background-color: #BAFFF9;
+    color: black;
+}
+
+h1 {
+    background-color: #FFFC9B;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 100px;
+    display: block;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+
+h3 {
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    background-color: white;
+    display: block;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+input {
+    display: block; 
+    margin: auto;
+}
+
+
+h2 {
+    background-color: #FF4C46;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    font-size: 40px;
+    display: block;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#FFCE43;
+    text-align: center
+}
+
+li {
+    /*display: inline;*/
+    color: white;
+    text-align: center;
+    border-right: 1px solid #bbb;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+li a {
+    /*display: inline;*/
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    padding:20px;
+    display:block;
+}
+
+li:hover {
+    background-color: #FFFC9B;
+    text-align: center
+}
+
+button {
+    font-family: 'Fredoka One', cursive;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+td {
+    font-size: x-large;
+    font-family: 'Fredoka One', cursive;
+}
